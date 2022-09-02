@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This project is the introduction to shell basics
